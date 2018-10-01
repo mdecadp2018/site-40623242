@@ -24,10 +24,16 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181001100337.1" a="E"><vh>WEEK1</vh>
+<v t="leo.20181001102128.1"><vh>WEEK1-1</vh></v>
+</v>
+<v t="leo.20181001102704.1" a="E"><vh>Onshape</vh>
+<v t="leo.20181001102704.3"><vh>Onshape Q&amp;A</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -124,7 +130,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall 40623242-分組網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -132,7 +138,7 @@ vertical: body pane on the botton</t>
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 40623242分組網誌](./../blog/index.html)
 
 
 </t>
@@ -246,7 +252,7 @@ make.start()
 <t tx="leo.20180827201621.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-2018 Fall 分組網際簡報
+2018 40623242-分組網際簡報
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -326,5 +332,50 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181001100337.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181001102128.1">#week 1
+
+* 把大學比喻為一間餐廳，老師為提供料理的廚師，學生為顧客，付錢吃料理，邊吃邊學。
+
+* 有網路就只是為了協同;無網路也可單人協同。
+
+* Soildworks 1955年發表第一款產品(用PDM協同)
+
+* 1997被達梭併購
+
+* Autodesk 1982年建立
+
+* 智-有勇無謀
+* 慧-有勇有謀
+
+
+
+</t>
+<t tx="leo.20181001102704.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181001102704.3"># Onshape
+
+* Q1 : What's Onshape?
+
+* Ans : 運用雲端系統，整合一個團隊了設計想法，使多人可以編輯的一個共享檔案。
+
+* Q1 : Why Onshape?
+
+* Ans : 透過雲端系統，,使所有共享檔案的人，統一擁有相同版本。</t>
 </tnodes>
 </leo_file>
