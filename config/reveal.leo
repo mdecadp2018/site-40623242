@@ -24,11 +24,14 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181001100337.1" a="E"><vh>WEEK1</vh>
+<v t="leo.20181001100337.1"><vh>WEEK1</vh>
 <v t="leo.20181001102128.1"><vh>WEEK1-1</vh></v>
 </v>
-<v t="leo.20181001102704.1" a="E"><vh>Onshape</vh>
+<v t="leo.20181001102704.1"><vh>Onshape</vh>
 <v t="leo.20181001102704.3"><vh>Onshape Q&amp;A</vh></v>
+</v>
+<v t="leo.20181001105630.1" a="E"><vh>WEEK2</vh>
+<v t="leo.20181001105630.2"><vh>WEEK2-1</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -377,5 +380,20 @@ make.start()
 * Q1 : Why Onshape?
 
 * Ans : 透過雲端系統，,使所有共享檔案的人，統一擁有相同版本。</t>
+<t tx="leo.20181001105630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181001105630.2">#week 2
+
+* 8444 靜態
+
+* 8443 動態
+</t>
 </tnodes>
 </leo_file>
