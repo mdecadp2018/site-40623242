@@ -68,11 +68,11 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
-<v t="leo.20180423103639.1"><vh>2018 Fall CADP 課程</vh>
+<v t="leo.20180423103639.1" a="E"><vh>2018 Fall CADP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 </v>
 <v t="leo.20181008105223.1" a="E"><vh>2018 Fall CADP WEEK1</vh>
-<v t="leo.20181008105223.2"><vh>@edit 20180718.md</vh></v>
+<v t="leo.20181008105223.2"><vh>@edit 20180910.md</vh></v>
 </v>
 </v>
 </v>
