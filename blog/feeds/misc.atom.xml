@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623242 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-10-01T11:00:00+08:00</updated><entry><title>2018 Fall 40623242 CADP WEEK4</title><link href="./2018-Fall-Project-Blog-2.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623242 分組網誌 - Misc</title><link href="./" rel="alternate"></link><link href="./feeds/misc.atom.xml" rel="self"></link><id>./</id><updated>2018-10-01T11:00:00+08:00</updated><entry><title>2018 Fall 40623242 CADP WEEK4</title><link href="./2018-Fall-Project-Blog-4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-4.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -18,7 +18,7 @@
 &lt;p&gt;介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;從 2D 過渡到 3D&lt;/p&gt;
+&lt;p&gt;從 2D 到 3D&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;介紹基本草圖&lt;/p&gt;
@@ -43,7 +43,7 @@
 &lt;h2&gt;LEO檔補充&lt;/h2&gt;
 &lt;p&gt;content = 裡面放靜態的HTML
 reveal = 投影片
-pelican = 網誌&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK4</title><link href="./2018-Fall-Project-Blog-3.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-3.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+pelican = 網誌&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK2</title><link href="./2018-Fall-Project-Blog-2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog-2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -62,7 +62,7 @@ pelican = 網誌&lt;/p&gt;</content><category term="2018Fall"></category></entry
 &lt;p&gt;介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;從 2D 到 3D&lt;/p&gt;
+&lt;p&gt;從 2D 過渡到 3D&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;介紹基本草圖&lt;/p&gt;
