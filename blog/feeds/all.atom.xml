@@ -1,17 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623242 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-09-17T11:00:00+08:00</updated><entry><title>2018 Fall 40623242 CADP WEEK2</title><link href="./2018-Fall-Project-Blog-2.html" rel="alternate"></link><published>2018-09-17T11:00:00+08:00</published><updated>2018-09-17T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-09-17:./2018-Fall-Project-Blog-2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623242 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-01T11:00:00+08:00</updated><entry><title>2018 Fall 40623242 CADP WEEK4</title><link href="./2018-Fall-Project-Blog-2.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-2.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
-&lt;h2&gt;Onshape Q&amp;amp;A&lt;/h2&gt;
-&lt;p&gt;Q1 : What's Onshape?&lt;/p&gt;
-&lt;p&gt;Ans : 運用雲端系統，整合一個團隊了設計想法，使多人可以編輯的一個共享檔案。&lt;/p&gt;
-&lt;p&gt;Q1 : Why Onshape?&lt;/p&gt;
-&lt;p&gt;Ans : 透過雲端系統，,使所有共享檔案的人，統一擁有相同版本。&lt;/p&gt;
-&lt;h2&gt;額外補充&lt;/h2&gt;
-&lt;p&gt;8444 = 動態
-8443 = 靜態
-git checkout 回來沒有提交前的原始狀態&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK1</title><link href="./2018-Fall-Project-Blog-1.html" rel="alternate"></link><published>2018-09-10T13:00:00+08:00</published><updated>2018-09-10T13:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog-1.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;h2&gt;簡單導覽 Onshape&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3D 環境導航 (navigate)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;說明基於草圖 (sketch-based)的建模&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;從 2D 過渡到 3D&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;介紹基本草圖&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;鍵盤快捷鍵 (keyboard shotcuts)，滑鼠和觸控平面手勢 (touchpad gestures)，檢視工具&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;繪圖界面與可視化/檢視的介紹&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;9.針對既有草圖的模型 - 接續建立特徵&lt;/p&gt;
+&lt;p&gt;10.存公用模型 (public models) - 並復製到工作區 (workspace)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Part studio 單一零件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lsometric 等角視圖&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;LEO檔補充&lt;/h2&gt;
+&lt;p&gt;content = 裡面放靜態的HTML
+reveal = 投影片
+pelican = 網誌&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK4</title><link href="./2018-Fall-Project-Blog-3.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-3.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;簡單導覽 Onshape&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3D 環境導航 (navigate)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;說明基於草圖 (sketch-based)的建模&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;介紹 4 個基本特徵 (features)（擠出(extrude)，旋轉(revolve)，掃描(sweep)，和斷面混成(loaf)）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;從 2D 到 3D&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;介紹基本草圖&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;鍵盤快捷鍵 (keyboard shotcuts)，滑鼠和觸控平面手勢 (touchpad gestures)，檢視工具&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;繪圖界面與可視化/檢視的介紹&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;9.針對既有草圖的模型 - 接續建立特徵&lt;/p&gt;
+&lt;p&gt;10.存公用模型 (public models) - 並復製到工作區 (workspace)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Part studio 單一零件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Lsometric 等角視圖&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;LEO檔補充&lt;/h2&gt;
+&lt;p&gt;content = 裡面放靜態的HTML
+reveal = 投影片
+pelican = 網誌&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK1</title><link href="./2018-Fall-Project-Blog-1.html" rel="alternate"></link><published>2018-09-10T13:00:00+08:00</published><updated>2018-09-10T13:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-09-10:./2018-Fall-Project-Blog-1.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
