@@ -1,5 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623242 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-01T11:00:00+08:00</updated><entry><title>2018 Fall 40623242 CADP WEEK4</title><link href="./2018-Fall-Project-Blog-4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-4.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623242 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-08T11:00:00+08:00</updated><entry><title>2018 Fall 40623242 CADP WEEK5</title><link href="./2018-Fall-Project-Blog-5.html" rel="alternate"></link><published>2018-10-08T11:00:00+08:00</published><updated>2018-10-08T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-08:./2018-Fall-Project-Blog-5.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+
+
+&lt;h2&gt;Onshape week2&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;簡介"設計意圖" (design intent)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;設定尺寸 (dimensions) 與約束 (constraints)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;自動推理 (automatic inferencing)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;繪製精確的零件 (accurate part)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;草圖繪製練習&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;運用與建立平面 (planes)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;建立圓角 (fillets) 與倒角 (chamfers)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;使用多個 (multiple) 草圖區域 (sketch regions)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;基本零件&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;繪製時鐘模型 - 用於設計意圖教學&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;各種簡單的幾何形狀 (geometric shapes) &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;onshape補充&lt;/h2&gt;
+&lt;p&gt;Variable = 變數
+part = 部分&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK4</title><link href="./2018-Fall-Project-Blog-4.html" rel="alternate"></link><published>2018-10-01T11:00:00+08:00</published><updated>2018-10-01T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-01:./2018-Fall-Project-Blog-4.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
