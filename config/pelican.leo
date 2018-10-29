@@ -77,6 +77,9 @@
 <v t="leo.20181008111425.1" a="E"><vh>2018 Fall CADP WEEK2</vh>
 <v t="leo.20181008111425.2"><vh>@edit 20180917.md</vh></v>
 </v>
+<v t="leo.20181029094138.1" a="E"><vh>2018 Fall CADP WEEK3</vh>
+<v t="leo.20181029094138.2"><vh>@edit 20180924.md</vh></v>
+</v>
 <v t="leo.20181015111924.1" a="E"><vh>2018 Fall CADP WEEK4</vh>
 <v t="leo.20181015111924.2"><vh>@edit 20181001.md</vh></v>
 </v>
@@ -85,6 +88,12 @@
 </v>
 <v t="leo.20181022113526.1" a="E"><vh>2018 Fall CADP WEEK6</vh>
 <v t="leo.20181022113526.2"><vh>@edit 20181015.md</vh></v>
+</v>
+<v t="leo.20181029095624.1" a="E"><vh>2018 Fall CADP WEEK7</vh>
+<v t="leo.20181029095624.2"><vh>@edit 20181022.md</vh></v>
+</v>
+<v t="leo.20181029095713.1" a="E"><vh>2018 Fall CADP WEEK8</vh>
+<v t="leo.20181029095713.2"><vh>@edit 20181029.md</vh></v>
 </v>
 </v>
 </v>
@@ -123,6 +132,9 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181015111924.1"></t>
 <t tx="leo.20181022111850.1"></t>
 <t tx="leo.20181022113526.1"></t>
+<t tx="leo.20181029094138.1"></t>
+<t tx="leo.20181029095624.1"></t>
+<t tx="leo.20181029095713.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
