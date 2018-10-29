@@ -1,43 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623242 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>2018 Fall 40623242 CADP WEEK8</title><link href="./2018-Fall-Project-Blog-7.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-7.html</id><summary type="html">&lt;p&gt;是否準備好開始協同了？&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;是否準備好開始協同了？&lt;/p&gt;
-
-
-&lt;p&gt;1.何謂雲端？&lt;/p&gt;
-&lt;p&gt;shared pools (可供共享用之眾多伺服器) of configurable computer system resources (可配置的電腦系統資源)&lt;/p&gt;
-&lt;p&gt;雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少&lt;/p&gt;
-&lt;p&gt;pool: a readily available supply (能隨時提供配置與調適)&lt;/p&gt;
-&lt;p&gt;higher-level services that can be rapidly provisioned (可快速配置) with minimal management effort (最少管理), often over the Internet.&lt;/p&gt;
-&lt;p&gt;Cloud computing relies on sharing of resources to achieve coherence (一致性) and economies of scale (經濟規模), similar to a public utility (公共服務事業, 如電力公司與自來水公司).&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;onshape 再次複習&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Onshape 可以讓使用者直接使用瀏覽器、平板或手機進行電腦輔助機械設計繪圖, &lt;/p&gt;
-&lt;p&gt;此一雲端工具在假設網路無所不在的環境中, 新產品開發團隊成員可以利用雲般無所不在,&lt;/p&gt;
-&lt;p&gt;且毫無限制的電腦輔助設計套件, 協同完成各式零組件的設計與繪製.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;在協同中必須先有的先備知識以及可能會遇到的問題&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Onshape 零組件設計繪製與組立
-將零組件轉至 V-rep 進行運動模擬&lt;/p&gt;
-&lt;p&gt;利用 Pyquino 與 V-rep 3D 列印機連線, 透過 https://github.com/slic3r/Slic3r 驅動 V-rep 3D 列印模型機, 進行列印模擬.Onshape 零組件如何轉入 V-rep?&lt;/p&gt;
-&lt;p&gt;零組件轉入 V-rep 後, 如何以程式驅動, Python or Lua?&lt;/p&gt;
-&lt;p&gt;Pyquino 如何與 V-rep 機電模型連接運用?&lt;/p&gt;
-&lt;p&gt;STL 模型格式?&lt;/p&gt;
-&lt;p&gt;Parasolid 模型格式?&lt;/p&gt;
-&lt;p&gt;ACIS 模型格式?&lt;/p&gt;
-&lt;p&gt;STEP 模型格式?&lt;/p&gt;
-&lt;p&gt;G-code?&lt;/p&gt;
-&lt;p&gt;TinkerCAD?&lt;/p&gt;
-&lt;p&gt;3D printing?&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;回顧week1-6&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;執行電腦輔助設計專案為何需要使用 Git 與 Github?&lt;/p&gt;
-&lt;p&gt;CMSimfly, Reveal 與 Pelican 分別提供那些功能?
-上述三種系統如何應用?&lt;/p&gt;
-&lt;p&gt;我現在會利用 Onshape 繪製組立那些系統, 可以達成何種功能?&lt;/p&gt;
-&lt;p&gt;是否準備好進入電腦輔助設計實習課程第二階段, 與其他五人開始執行電腦輔助設計期末專案?&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK8</title><link href="./2018-Fall-Project-Blog-7.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-7.html</id><summary type="html">&lt;p&gt;是否準備好開始協同了？&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40623242 分組網誌</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2018-10-29T11:00:00+08:00</updated><entry><title>2018 Fall 40623242 CADP WEEK8</title><link href="./2018-Fall-Project-Blog-8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-29:./2018-Fall-Project-Blog-8.html</id><summary type="html">&lt;p&gt;是否準備好開始協同了？&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;是否準備好開始協同了？&lt;/p&gt;
 
 
@@ -76,20 +38,6 @@
 上述三種系統如何應用?&lt;/p&gt;
 &lt;p&gt;我現在會利用 Onshape 繪製組立那些系統, 可以達成何種功能?&lt;/p&gt;
 &lt;p&gt;是否準備好進入電腦輔助設計實習課程第二階段, 與其他五人開始執行電腦輔助設計期末專案?&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK7</title><link href="./2018-Fall-Project-Blog-7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-7.html</id><summary type="html">&lt;p&gt;複習week1-6內容.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;複習week1-6內容.&lt;/p&gt;
-
-
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;因為github連線出問題，導致無法使用&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;復習week1-5的上課內容&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;leo檔 日期要記得改好不然會推不成功&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 40623242 CADP WEEK7</title><link href="./2018-Fall-Project-Blog-7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>NFUMDE-40623242</name></author><id>tag:None,2018-10-22:./2018-Fall-Project-Blog-7.html</id><summary type="html">&lt;p&gt;複習week1-6內容.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;複習week1-6內容.&lt;/p&gt;
 
 
