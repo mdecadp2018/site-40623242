@@ -24,16 +24,16 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181001100337.1" a="E"><vh>WEEK1</vh>
+<v t="leo.20181001100337.1"><vh>WEEK1</vh>
 <v t="leo.20181001102128.1"><vh>WEEK1-1</vh></v>
 </v>
-<v t="leo.20181001102704.1" a="E"><vh>Onshape</vh>
+<v t="leo.20181001102704.1"><vh>Onshape</vh>
 <v t="leo.20181001102704.3"><vh>Onshape Q&amp;A</vh></v>
 </v>
-<v t="leo.20181001105630.1" a="E"><vh>WEEK2</vh>
+<v t="leo.20181001105630.1"><vh>WEEK2</vh>
 <v t="leo.20181001105630.2"><vh>WEEK2-1</vh></v>
 </v>
-<v t="leo.20181104222223.1" a="E"><vh>WEEK3</vh>
+<v t="leo.20181104222223.1"><vh>WEEK3</vh>
 <v t="leo.20181104222223.2"><vh>WEEK3-1</vh></v>
 </v>
 <v t="leo.20181104222407.1" a="E"><vh>WEEK4</vh>
@@ -45,11 +45,14 @@
 <v t="leo.20181104222613.1" a="E"><vh>WEEK6</vh>
 <v t="leo.20181104222613.2"><vh>WEEK6-1</vh></v>
 </v>
-<v t="leo.20181104222654.1" a="E"><vh>WEEK7</vh>
+<v t="leo.20181104222654.1"><vh>WEEK7</vh>
 <v t="leo.20181104222654.2"><vh>WEEK7-1</vh></v>
 </v>
-<v t="leo.20181104222754.1" a="E"><vh>WEEK8</vh>
+<v t="leo.20181104222754.1"><vh>WEEK8</vh>
 <v t="leo.20181104222754.2"><vh>WEEK8-1</vh></v>
+</v>
+<v t="leo.20181104224009.1" a="E"><vh>WEEK9</vh>
+<v t="leo.20181104224009.2"><vh>WEEK9-1</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -362,7 +365,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181001102128.1">#week 1
+<t tx="leo.20181001102128.1"># week 1
 
 * 把大學比喻為一間餐廳，老師為提供料理的廚師，學生為顧客，付錢吃料理，邊吃邊學。
 
@@ -545,6 +548,19 @@ Variable = 變數 part = 部分
 
 * 開始找期末分組隊友。
 
+</t>
+<t tx="leo.20181104224009.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104224009.2"># week 9
+
+* 期中考奮鬥瞜！
 </t>
 </tnodes>
 </leo_file>
