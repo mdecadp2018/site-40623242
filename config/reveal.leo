@@ -24,31 +24,31 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181001100337.1"><vh>WEEK1</vh>
+<v t="leo.20181001100337.1" a="E"><vh>WEEK1</vh>
 <v t="leo.20181001102128.1"><vh>WEEK1-1</vh></v>
 </v>
-<v t="leo.20181001102704.1"><vh>Onshape</vh>
+<v t="leo.20181001102704.1" a="E"><vh>Onshape</vh>
 <v t="leo.20181001102704.3"><vh>Onshape Q&amp;A</vh></v>
 </v>
-<v t="leo.20181001105630.1"><vh>WEEK2</vh>
+<v t="leo.20181001105630.1" a="E"><vh>WEEK2</vh>
 <v t="leo.20181001105630.2"><vh>WEEK2-1</vh></v>
 </v>
-<v t="leo.20181104222223.1"><vh>WEEK3</vh>
+<v t="leo.20181104222223.1" a="E"><vh>WEEK3</vh>
 <v t="leo.20181104222223.2"><vh>WEEK3-1</vh></v>
 </v>
-<v t="leo.20181104222407.1"><vh>WEEK4</vh>
+<v t="leo.20181104222407.1" a="E"><vh>WEEK4</vh>
 <v t="leo.20181104222407.2"><vh>WEEK4-1</vh></v>
 </v>
-<v t="leo.20181104222521.1"><vh>WEEK5</vh>
+<v t="leo.20181104222521.1" a="E"><vh>WEEK5</vh>
 <v t="leo.20181104222521.2"><vh>WEEK5-1</vh></v>
 </v>
-<v t="leo.20181104222613.1"><vh>WEEK6</vh>
+<v t="leo.20181104222613.1" a="E"><vh>WEEK6</vh>
 <v t="leo.20181104222613.2"><vh>WEEK6-1</vh></v>
 </v>
-<v t="leo.20181104222654.1"><vh>WEEK7</vh>
+<v t="leo.20181104222654.1" a="E"><vh>WEEK7</vh>
 <v t="leo.20181104222654.2"><vh>WEEK7-1</vh></v>
 </v>
-<v t="leo.20181104222754.1"><vh>WEEK8</vh>
+<v t="leo.20181104222754.1" a="E"><vh>WEEK8</vh>
 <v t="leo.20181104222754.2"><vh>WEEK8-1</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
@@ -411,21 +411,21 @@ make.start()
 </t>
 <t tx="leo.20181001105630.2"># week 2
 
-* 8444 靜態
+ 8444 靜態
 
-* 8443 動態
+ 8443 動態
 
-* 設定尺寸與約束
-* 簡介“設計意圖”
-* 繪製精確的零件
-* 草圖繪製練習
-* 自動推理
-* 建立圓角（fillets）與倒角（chamfers）
-* 使用多個草圖區域
-* 各種簡單的幾何形狀
-* 繪製時鐘模型 - 用於設計意圖教學
-* 運用與建立平面
-* 基本零件
+ 設定尺寸與約束
+ 簡介“設計意圖”
+ 繪製精確的零件
+ 草圖繪製練習
+ 自動推理
+ 建立圓角（fillets）與倒角（chamfers）
+ 使用多個草圖區域
+ 各種簡單的幾何形狀
+ 繪製時鐘模型 - 用於設計意圖教學
+ 運用與建立平面
+ 基本零件
 </t>
 <t tx="leo.20181104222223.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -436,9 +436,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104222223.2">#week 3
+<t tx="leo.20181104222223.2"># week 3
 
-moon festival~休息
+* moon festival~休息
 </t>
 <t tx="leo.20181104222407.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -449,15 +449,15 @@ moon festival~休息
 
 						
 </t>
-<t tx="leo.20181104222407.2">#week 4
+<t tx="leo.20181104222407.2"># week 4
 
-*簡單介紹onshape
+* 簡單介紹onshape
 
-*Part studio 單一零件
+* Part studio 單一零件
 
-*Lsometric 等角視圖
+* Lsometric 等角視圖
 
-*LEO檔補充
+* LEO檔補充
 
 content = 裡面放靜態的HTML reveal = 投影片 pelican = 網誌
 
@@ -472,7 +472,7 @@ content = 裡面放靜態的HTML reveal = 投影片 pelican = 網誌
 
 						
 </t>
-<t tx="leo.20181104222521.2">#week 5
+<t tx="leo.20181104222521.2"># week 5
 
 * 以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
 
@@ -483,7 +483,9 @@ content = 裡面放靜態的HTML reveal = 投影片 pelican = 網誌
 onshape補充
 Variable = 變數 part = 部分
 
-注意！！！ 資料夾中的theme切記勿刪掉不然怎推都推不上去</t>
+注意！！！ 資料夾中的theme切記勿刪掉不然怎推都推不上去
+
+</t>
 <t tx="leo.20181104222613.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -493,17 +495,19 @@ Variable = 變數 part = 部分
 
 						
 </t>
-<t tx="leo.20181104222613.2">#week 6
+<t tx="leo.20181104222613.2"># week 6
 
-複習week1-5內容.
+* 複習week1-5內容.
 
-複習week1-5的上課內容
+* 複習week1-5的上課內容
 
-leo檔 日期要記得改好不然會推不成功
+* leo檔 日期要記得改好不然會推不成功
 
-學習如何處理網誌error的問題 - 要先執行近端在 git status 確認無誤才會在遠端網址顯示
+* 學習如何處理網誌error的問題 - 要先執行近端在 git status 確認無誤才會在遠端網址顯示
 
-安裝新版p37</t>
+* 安裝新版p37
+
+</t>
 <t tx="leo.20181104222654.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -513,13 +517,15 @@ leo檔 日期要記得改好不然會推不成功
 
 						
 </t>
-<t tx="leo.20181104222654.2">#week 7
+<t tx="leo.20181104222654.2"># week 7
 
-因為github連線出問題，導致無法使用，使用Fossil SCM來進行協同。
+* 因為github連線出問題，導致無法使用，使用Fossil SCM來進行協同。
 
-復習week1-6的上課內容
+* 復習week1-6的上課內容
 
-leo檔 日期要記得改好不然會推不成功</t>
+* leo檔 日期要記得改好不然會推不成功
+
+</t>
 <t tx="leo.20181104222754.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -529,14 +535,16 @@ leo檔 日期要記得改好不然會推不成功</t>
 
 						
 </t>
-<t tx="leo.20181104222754.2">#week 8
+<t tx="leo.20181104222754.2"># week 8
 
 * 說明機電資整合設計專案流程所需的相關套件運用與技術
 
-*我現在會利用 Onshape 繪製組立那些系統, 可以達成何種功能?
+* 我現在會利用 Onshape 繪製組立那些系統, 可以達成何種功能?
 
-*是否準備好進入電腦輔助設計實習課程第二階段, 與其他五人開始執行電腦輔助設計期末專案?
+* 是否準備好進入電腦輔助設計實習課程第二階段, 與其他五人開始執行電腦輔助設計期末專案?
 
-* 開始找期末分組隊友。</t>
+* 開始找期末分組隊友。
+
+</t>
 </tnodes>
 </leo_file>
