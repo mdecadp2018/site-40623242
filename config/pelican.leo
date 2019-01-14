@@ -68,35 +68,62 @@
 <v t="leo.20170710022054.1"><vh>可以另建節點存放 markdown 目錄下的 md 檔案</vh></v>
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
-<v t="leo.20180423103639.1" a="E"><vh>2018 Fall CADP 課程</vh>
+<v t="leo.20180423103639.1"><vh>2018 Fall CADP 課程</vh>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 </v>
-<v t="leo.20181008105223.1" a="E"><vh>2018 Fall CADP WEEK1</vh>
+<v t="leo.20181008105223.1"><vh>2018 Fall CADP WEEK1</vh>
 <v t="leo.20181008105223.2"><vh>@edit 20180910.md</vh></v>
 </v>
-<v t="leo.20181008111425.1" a="E"><vh>2018 Fall CADP WEEK2</vh>
+<v t="leo.20181008111425.1"><vh>2018 Fall CADP WEEK2</vh>
 <v t="leo.20181008111425.2"><vh>@edit 20180917.md</vh></v>
 </v>
-<v t="leo.20181029094138.1" a="E"><vh>2018 Fall CADP WEEK3</vh>
+<v t="leo.20181029094138.1"><vh>2018 Fall CADP WEEK3</vh>
 <v t="leo.20181029094138.2"><vh>@edit 20180924.md</vh></v>
 </v>
-<v t="leo.20181015111924.1" a="E"><vh>2018 Fall CADP WEEK4</vh>
+<v t="leo.20181015111924.1"><vh>2018 Fall CADP WEEK4</vh>
 <v t="leo.20181015111924.2"><vh>@edit 20181001.md</vh></v>
 </v>
-<v t="leo.20181022111850.1" a="E"><vh>2018 Fall CADP WEEK5</vh>
+<v t="leo.20181022111850.1"><vh>2018 Fall CADP WEEK5</vh>
 <v t="leo.20181022111850.2"><vh>@edit 20181008.md</vh></v>
 </v>
-<v t="leo.20181022113526.1" a="E"><vh>2018 Fall CADP WEEK6</vh>
+<v t="leo.20181022113526.1"><vh>2018 Fall CADP WEEK6</vh>
 <v t="leo.20181022113526.2"><vh>@edit 20181015.md</vh></v>
 </v>
-<v t="leo.20181029095624.1" a="E"><vh>2018 Fall CADP WEEK7</vh>
+<v t="leo.20181029095624.1"><vh>2018 Fall CADP WEEK7</vh>
 <v t="leo.20181029095624.2"><vh>@edit 20181022.md</vh></v>
 </v>
-<v t="leo.20181029095713.1" a="E"><vh>2018 Fall CADP WEEK8</vh>
+<v t="leo.20181029095713.1"><vh>2018 Fall CADP WEEK8</vh>
 <v t="leo.20181029095713.2"><vh>@edit 20181029.md</vh></v>
 </v>
-<v t="leo.20181104224133.1" a="E"><vh>2018 Fall CADP WEEK9</vh>
+<v t="leo.20181104224133.1"><vh>2018 Fall CADP WEEK9</vh>
 <v t="leo.20181104224133.2"><vh>@edit 20181104.md</vh></v>
+</v>
+<v t="leo.20190115003602.1"><vh>2018 Fall CADP WEEK10</vh>
+<v t="leo.20190115003602.2"><vh>@edit 20181112.md</vh></v>
+</v>
+<v t="leo.20190115003736.1"><vh>2018 Fall CADP WEEK11</vh>
+<v t="leo.20190115003736.2"><vh>@edit 20181119.md</vh></v>
+</v>
+<v t="leo.20190115003832.1"><vh>2018 Fall CADP WEEK12</vh>
+<v t="leo.20190115003832.2"><vh>@edit 20181126.md</vh></v>
+</v>
+<v t="leo.20190115003939.1"><vh>2018 Fall CADP WEEK13</vh>
+<v t="leo.20190115003939.2"><vh>@edit 20181203.md</vh></v>
+</v>
+<v t="leo.20190115004036.1"><vh>2018 Fall CADP WEEK14</vh>
+<v t="leo.20190115004036.2"><vh>@edit 20181210.md</vh></v>
+</v>
+<v t="leo.20190115004109.1"><vh>2018 Fall CADP WEEK15</vh>
+<v t="leo.20190115004109.2"><vh>@edit 20181217.md</vh></v>
+</v>
+<v t="leo.20190115004155.1"><vh>2018 Fall CADP WEEK16</vh>
+<v t="leo.20190115004155.2"><vh>@edit 20181224.md</vh></v>
+</v>
+<v t="leo.20190115004233.1"><vh>2018 Fall CADP WEEK17</vh>
+<v t="leo.20190115004233.2"><vh>@edit 20181220.md</vh></v>
+</v>
+<v t="leo.20190115004328.1"><vh>2018 Fall CADP WEEK18</vh>
+<v t="leo.20190115004328.2"><vh>@edit 20190107.md</vh></v>
 </v>
 </v>
 </v>
@@ -139,6 +166,15 @@ g.es("admin pelican Github 執行完畢")
 <t tx="leo.20181029095624.1"></t>
 <t tx="leo.20181029095713.1"></t>
 <t tx="leo.20181104224133.1"></t>
+<t tx="leo.20190115003602.1"></t>
+<t tx="leo.20190115003736.1"></t>
+<t tx="leo.20190115003832.1"></t>
+<t tx="leo.20190115003939.1"></t>
+<t tx="leo.20190115004036.1"></t>
+<t tx="leo.20190115004109.1"></t>
+<t tx="leo.20190115004155.1"></t>
+<t tx="leo.20190115004233.1"></t>
+<t tx="leo.20190115004328.1"></t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
