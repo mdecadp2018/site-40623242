@@ -98,31 +98,31 @@
 <v t="leo.20181104224133.1"><vh>2018 Fall CADP WEEK9</vh>
 <v t="leo.20181104224133.2"><vh>@edit 20181104.md</vh></v>
 </v>
-<v t="leo.20190115003602.1"><vh>2018 Fall CADP WEEK10</vh>
+<v t="leo.20190115003602.1" a="E"><vh>2018 Fall CADP WEEK10</vh>
 <v t="leo.20190115003602.2"><vh>@edit 20181112.md</vh></v>
 </v>
-<v t="leo.20190115003736.1"><vh>2018 Fall CADP WEEK11</vh>
+<v t="leo.20190115003736.1" a="E"><vh>2018 Fall CADP WEEK11</vh>
 <v t="leo.20190115003736.2"><vh>@edit 20181119.md</vh></v>
 </v>
-<v t="leo.20190115003832.1"><vh>2018 Fall CADP WEEK12</vh>
+<v t="leo.20190115003832.1" a="E"><vh>2018 Fall CADP WEEK12</vh>
 <v t="leo.20190115003832.2"><vh>@edit 20181126.md</vh></v>
 </v>
-<v t="leo.20190115003939.1"><vh>2018 Fall CADP WEEK13</vh>
+<v t="leo.20190115003939.1" a="E"><vh>2018 Fall CADP WEEK13</vh>
 <v t="leo.20190115003939.2"><vh>@edit 20181203.md</vh></v>
 </v>
-<v t="leo.20190115004036.1"><vh>2018 Fall CADP WEEK14</vh>
+<v t="leo.20190115004036.1" a="E"><vh>2018 Fall CADP WEEK14</vh>
 <v t="leo.20190115004036.2"><vh>@edit 20181210.md</vh></v>
 </v>
-<v t="leo.20190115004109.1"><vh>2018 Fall CADP WEEK15</vh>
+<v t="leo.20190115004109.1" a="E"><vh>2018 Fall CADP WEEK15</vh>
 <v t="leo.20190115004109.2"><vh>@edit 20181217.md</vh></v>
 </v>
-<v t="leo.20190115004155.1"><vh>2018 Fall CADP WEEK16</vh>
+<v t="leo.20190115004155.1" a="E"><vh>2018 Fall CADP WEEK16</vh>
 <v t="leo.20190115004155.2"><vh>@edit 20181224.md</vh></v>
 </v>
-<v t="leo.20190115004233.1"><vh>2018 Fall CADP WEEK17</vh>
+<v t="leo.20190115004233.1" a="E"><vh>2018 Fall CADP WEEK17</vh>
 <v t="leo.20190115004233.2"><vh>@edit 20181220.md</vh></v>
 </v>
-<v t="leo.20190115004328.1"><vh>2018 Fall CADP WEEK18</vh>
+<v t="leo.20190115004328.1" a="E"><vh>2018 Fall CADP WEEK18</vh>
 <v t="leo.20190115004328.2"><vh>@edit 20190107.md</vh></v>
 </v>
 </v>
