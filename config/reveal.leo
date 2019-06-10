@@ -24,40 +24,34 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181001100337.1"><vh>WEEK1</vh>
-<v t="leo.20181001102128.1"><vh>WEEK1-1</vh></v>
+<v t="leo.20181001100337.1" a="E"><vh>大綱</vh>
+<v t="leo.20181001102128.1"><vh>大綱內容</vh></v>
 </v>
-<v t="leo.20181001102704.1"><vh>Onshape</vh>
-<v t="leo.20181001102704.3"><vh>Onshape Q&amp;A</vh></v>
+<v t="leo.20181001102704.1" a="E"><vh>手足球模擬1</vh>
+<v t="leo.20181001102704.3"><vh>人對人</vh></v>
 </v>
-<v t="leo.20181001105630.1"><vh>WEEK2</vh>
-<v t="leo.20181001105630.2"><vh>WEEK2-1</vh></v>
+<v t="leo.20181001105630.1" a="E"><vh>手足球模擬2</vh>
+<v t="leo.20181001105630.2"><vh>人對機</vh></v>
 </v>
-<v t="leo.20181104222223.1"><vh>WEEK3</vh>
-<v t="leo.20181104222223.2"><vh>WEEK3-1</vh></v>
+<v t="leo.20181104222223.1" a="E"><vh>手足球模擬3</vh>
+<v t="leo.20181104222223.2"><vh>機對機</vh></v>
 </v>
-<v t="leo.20181104222407.1" a="E"><vh>WEEK4</vh>
-<v t="leo.20181104222407.2"><vh>WEEK4-1</vh></v>
+<v t="leo.20181104222407.1" a="E"><vh>貢獻</vh>
+<v t="leo.20181104222407.2"><vh>貢獻實例</vh></v>
 </v>
-<v t="leo.20181104222521.1" a="E"><vh>WEEK5</vh>
-<v t="leo.20181104222521.2"><vh>WEEK5-1</vh></v>
+<v t="leo.20181104222521.1" a="E"><vh>推送紀錄</vh>
+<v t="leo.20181104222521.2"><vh>紀錄</vh></v>
 </v>
-<v t="leo.20181104222613.1" a="E"><vh>WEEK6</vh>
-<v t="leo.20181104222613.2"><vh>WEEK6-1</vh></v>
+<v t="leo.20181104222613.1" a="E"><vh>自評分數</vh>
+<v t="leo.20181104222613.2"><vh>自評</vh></v>
 </v>
-<v t="leo.20181104222654.1"><vh>WEEK7</vh>
-<v t="leo.20181104222654.2"><vh>WEEK7-1</vh></v>
+<v t="leo.20190610221106.1" a="E"><vh>謝謝</vh>
+<v t="leo.20190610221106.2"><vh>自評</vh></v>
 </v>
-<v t="leo.20181104222754.1"><vh>WEEK8</vh>
-<v t="leo.20181104222754.2"><vh>WEEK8-1</vh></v>
-</v>
-<v t="leo.20181104224009.1" a="E"><vh>WEEK9</vh>
-<v t="leo.20181104224009.2"><vh>WEEK9-1</vh></v>
-</v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -154,15 +148,17 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 40623242-分組網際簡報
+<t tx="leo.20180827201621.10">## 2018Fall 40623242
 
 ### 虎科大機械設計工程系
 
+協同產品設計期末簡報
+
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623242](https://github.com/mdecadp2018/site-40623242)
 &lt;/small&gt;
 
-[2018 Fall 40623242分組網誌](./../blog/index.html)
+[2018 Fall 40623242網誌](./../blog/index.html)
 
 
 </t>
@@ -365,24 +361,18 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181001102128.1"># week 1
+<t tx="leo.20181001102128.1">#大綱
 
-* 把大學比喻為一間餐廳，老師為提供料理的廚師，學生為顧客，付錢吃料理，邊吃邊學。
+* 手足球模擬
+   人VS人
+   人VS機
+   機VS機
 
-* 有網路就只是為了協同;無網路也可單人協同。
+* 在小組與班上的貢獻
 
-* Soildworks 1955年發表第一款產品(用PDM協同)
+* 倉儲推送紀錄
 
-* 1997被達梭併購
-
-* Autodesk 1982年建立
-
-* 智-有勇無謀
-* 慧-有勇有謀
-
-
-
-</t>
+*自評</t>
 <t tx="leo.20181001102704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -392,17 +382,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181001102704.3"># Onshape
+<t tx="leo.20181001102704.3"># 人對人
 
-* Q1 : What's Onshape?
-
-* Ans : 運用雲端系統，整合一個團隊了設計想法，使多人可以編輯的一個共享檔案。
-
-* Q1 : Why Onshape?
-
-* Ans : 透過雲端系統，,使所有共享檔案的人，統一擁有相同版本。
-
-</t>
+&lt;iframe src="https://www.youtube.com/watch?v=gR3Cdi34DvQ&amp;t=65s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181001105630.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -412,23 +394,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181001105630.2"># week 2
+<t tx="leo.20181001105630.2"># 人對機
 
- 8444 靜態
-
- 8443 動態
-
- 設定尺寸與約束
- 簡介“設計意圖”
- 繪製精確的零件
- 草圖繪製練習
- 自動推理
- 建立圓角（fillets）與倒角（chamfers）
- 使用多個草圖區域
- 各種簡單的幾何形狀
- 繪製時鐘模型 - 用於設計意圖教學
- 運用與建立平面
- 基本零件
+&lt;iframe src="https://www.youtube.com/watch?v=xhV6VnW0HXk" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181104222223.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -439,9 +407,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104222223.2"># week 3
+<t tx="leo.20181104222223.2"># 機對機
 
-* moon festival~休息
+&lt;iframe src="https://www.youtube.com/watch?v=Rzj-4pBYBfE" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181104222407.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -452,18 +420,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104222407.2"># week 4
+<t tx="leo.20181104222407.2">#貢獻
+小組上我會試圖幫助解決一些他們遇到的問題
 
-* 簡單介紹onshape
+ex:程式的打法不同，進行解釋或是v-rep設定上的問題，雖然我不是很懂，但把我知道的跟大家分享
 
-* Part studio 單一零件
+我負責小組的v-rep程式模擬M，參考網路的資料，以及甲班同學的程式
 
-* Lsometric 等角視圖
-
-* LEO檔補充
-
-content = 裡面放靜態的HTML reveal = 投影片 pelican = 網誌
-
+我在班上的貢獻:把我會的部分教會給更多人
 
 </t>
 <t tx="leo.20181104222521.1">&lt;section data-markdown&gt;
@@ -475,20 +439,10 @@ content = 裡面放靜態的HTML reveal = 投影片 pelican = 網誌
 
 						
 </t>
-<t tx="leo.20181104222521.2"># week 5
+<t tx="leo.20181104222521.2"># 紀錄
+bg5 (https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
 
-* 以更新 lab-booking-cdlab 倉儲內容為例，說明管理內容流程
-
-* 升級最新的CMSimfly倉儲中的flaskapp.py
-
-* 同步協作（即“Google Docs式協作”）
-
-onshape補充
-Variable = 變數 part = 部分
-
-注意！！！ 資料夾中的theme切記勿刪掉不然怎推都推不上去
-
-</t>
+scrum-1 (https://github.com/scrum-1/cd2019b/commits/master)</t>
 <t tx="leo.20181104222613.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -498,20 +452,10 @@ Variable = 變數 part = 部分
 
 						
 </t>
-<t tx="leo.20181104222613.2"># week 6
+<t tx="leo.20181104222613.2"># 自評分數
 
-* 複習week1-5內容.
-
-* 複習week1-5的上課內容
-
-* leo檔 日期要記得改好不然會推不成功
-
-* 學習如何處理網誌error的問題 - 要先執行近端在 git status 確認無誤才會在遠端網址顯示
-
-* 安裝新版p37
-
-</t>
-<t tx="leo.20181104222654.1">&lt;section data-markdown&gt;
+總分:70分</t>
+<t tx="leo.20190610221106.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -520,47 +464,8 @@ Variable = 變數 part = 部分
 
 						
 </t>
-<t tx="leo.20181104222654.2"># week 7
+<t tx="leo.20190610221106.2">### 謝謝大家
 
-* 因為github連線出問題，導致無法使用，使用Fossil SCM來進行協同。
-
-* 復習week1-6的上課內容
-
-* leo檔 日期要記得改好不然會推不成功
-
-</t>
-<t tx="leo.20181104222754.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104222754.2"># week 8
-
-* 說明機電資整合設計專案流程所需的相關套件運用與技術
-
-* 我現在會利用 Onshape 繪製組立那些系統, 可以達成何種功能?
-
-* 是否準備好進入電腦輔助設計實習課程第二階段, 與其他五人開始執行電腦輔助設計期末專案?
-
-* 開始找期末分組隊友。
-
-</t>
-<t tx="leo.20181104224009.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181104224009.2"># week 9
-
-* 期中考奮鬥瞜！
 </t>
 </tnodes>
 </leo_file>
