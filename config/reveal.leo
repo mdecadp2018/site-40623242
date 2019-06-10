@@ -384,7 +384,8 @@ make.start()
 </t>
 <t tx="leo.20181001102704.3"># 人對人
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=gR3Cdi34DvQ&amp;t=65s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://www.youtube.com/watch?v=gR3Cdi34DvQ&amp;t=65s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181001105630.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -396,7 +397,8 @@ make.start()
 </t>
 <t tx="leo.20181001105630.2"># 人對機
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=xhV6VnW0HXk&amp;t=28s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://www.youtube.com/watch?v=xhV6VnW0HXk" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181104222223.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -408,7 +410,8 @@ make.start()
 </t>
 <t tx="leo.20181104222223.2"># 機對機
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=Rzj-4pBYBfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe src="https://www.youtube.com/watch?v=Rzj-4pBYBfE" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+</t>
 <t tx="leo.20181104222407.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -439,9 +442,9 @@ ex:程式的打法不同，進行解釋或是v-rep設定上的問題，雖然我
 						
 </t>
 <t tx="leo.20181104222521.2"># 紀錄
-[bg5](https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
+[bg5] (https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
 
-[scrum-1](https://github.com/scrum-1/cd2019b/commits/master)</t>
+[scrum-1] (https://github.com/scrum-1/cd2019b/commits/master)</t>
 <t tx="leo.20181104222613.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
