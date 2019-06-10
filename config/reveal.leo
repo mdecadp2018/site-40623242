@@ -46,7 +46,7 @@
 <v t="leo.20181104222613.2"><vh>自評</vh></v>
 </v>
 <v t="leo.20190610221106.1" a="E"><vh>謝謝</vh>
-<v t="leo.20190610221106.2"><vh>自評</vh></v>
+<v t="leo.20190610221106.2"><vh>3Q</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -364,15 +364,15 @@ make.start()
 <t tx="leo.20181001102128.1">#大綱
 
 * 手足球模擬
-   人VS人
-   人VS機
+   人VS人 、
+   人VS機 、
    機VS機
 
 * 在小組與班上的貢獻
 
 * 倉儲推送紀錄
 
-*自評</t>
+* 自評</t>
 <t tx="leo.20181001102704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -384,7 +384,7 @@ make.start()
 </t>
 <t tx="leo.20181001102704.3"># 人對人
 
-&lt;iframe src="https://www.youtube.com/watch?v=gR3Cdi34DvQ&amp;t=65s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=gR3Cdi34DvQ&amp;t=65s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181001105630.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -396,8 +396,7 @@ make.start()
 </t>
 <t tx="leo.20181001105630.2"># 人對機
 
-&lt;iframe src="https://www.youtube.com/watch?v=xhV6VnW0HXk" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=xhV6VnW0HXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181104222223.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -409,8 +408,7 @@ make.start()
 </t>
 <t tx="leo.20181104222223.2"># 機對機
 
-&lt;iframe src="https://www.youtube.com/watch?v=Rzj-4pBYBfE" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+&lt;iframe width="560" height="315" src="https://www.youtube.com/watch?v=Rzj-4pBYBfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20181104222407.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -420,7 +418,8 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104222407.2">#貢獻
+<t tx="leo.20181104222407.2"># 貢獻
+
 小組上我會試圖幫助解決一些他們遇到的問題
 
 ex:程式的打法不同，進行解釋或是v-rep設定上的問題，雖然我不是很懂，但把我知道的跟大家分享
@@ -440,9 +439,9 @@ ex:程式的打法不同，進行解釋或是v-rep設定上的問題，雖然我
 						
 </t>
 <t tx="leo.20181104222521.2"># 紀錄
-bg5 (https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
+[bg5] (https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
 
-scrum-1 (https://github.com/scrum-1/cd2019b/commits/master)</t>
+[scrum-1] (https://github.com/scrum-1/cd2019b/commits/master)</t>
 <t tx="leo.20181104222613.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -454,7 +453,7 @@ scrum-1 (https://github.com/scrum-1/cd2019b/commits/master)</t>
 </t>
 <t tx="leo.20181104222613.2"># 自評分數
 
-總分:70分</t>
+總分 : 70分</t>
 <t tx="leo.20190610221106.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
