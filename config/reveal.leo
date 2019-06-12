@@ -384,10 +384,13 @@ make.start()
 <t tx="leo.20181104222223.2"># 功能展示
 
 [人對人](https://www.youtube.com/watch?v=gR3Cdi34DvQ&amp;t=140s)
+[講解](https://mdecadp2018.github.io/site-40623242/content/human%20and%20human.html)
 
 [人對機](https://www.youtube.com/watch?v=xhV6VnW0HXk&amp;t=178s)
+[講解](https://mdecadp2018.github.io/site-40623242/content/human%20and%20computer.html)
 
 [機對機](https://www.youtube.com/watch?v=Rzj-4pBYBfE&amp;t=108s)
+[講解](https://mdecadp2018.github.io/site-40623242/content/computer%20and%20computer.html)
 
 </t>
 <t tx="leo.20181104222407.1">&lt;section data-markdown&gt;
