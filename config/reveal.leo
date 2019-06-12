@@ -24,29 +24,20 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181001100337.1" a="E"><vh>大綱</vh>
-<v t="leo.20181001102128.1"><vh>大綱內容</vh></v>
+<v t="leo.20190612170848.1" a="E"><vh>目錄</vh>
+<v t="leo.20190612170848.2"><vh>目錄內容</vh></v>
 </v>
-<v t="leo.20181001102704.1" a="E"><vh>手足球模擬1</vh>
-<v t="leo.20181001102704.3"><vh>人對人</vh></v>
+<v t="leo.20181001100337.1" a="E"><vh>每週歷程</vh>
+<v t="leo.20181001102128.1"><vh>歷程記錄</vh></v>
 </v>
-<v t="leo.20181001105630.1" a="E"><vh>手足球模擬2</vh>
-<v t="leo.20181001105630.2"><vh>人對機</vh></v>
+<v t="leo.20181001105630.1" a="E"><vh>V-rep模擬</vh>
+<v t="leo.20181001105630.2"><vh>模擬內容</vh></v>
 </v>
-<v t="leo.20181104222223.1" a="E"><vh>手足球模擬3</vh>
-<v t="leo.20181104222223.2"><vh>機對機</vh></v>
+<v t="leo.20181104222223.1" a="E"><vh>功能展示</vh>
+<v t="leo.20181104222223.2"><vh>展示內容</vh></v>
 </v>
-<v t="leo.20181104222407.1" a="E"><vh>貢獻</vh>
-<v t="leo.20181104222407.2"><vh>貢獻實例</vh></v>
-</v>
-<v t="leo.20181104222521.1" a="E"><vh>推送紀錄</vh>
-<v t="leo.20181104222521.2"><vh>紀錄</vh></v>
-</v>
-<v t="leo.20181104222613.1" a="E"><vh>自評分數</vh>
-<v t="leo.20181104222613.2"><vh>自評</vh></v>
-</v>
-<v t="leo.20190610221106.1" a="E"><vh>謝謝</vh>
-<v t="leo.20190610221106.2"><vh>3Q</vh></v>
+<v t="leo.20181104222407.1" a="E"><vh>自評</vh>
+<v t="leo.20181104222407.2"><vh>自評細項</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -361,30 +352,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181001102128.1"># 大綱
+<t tx="leo.20181001102128.1"># 每週歷程
 
-* 手足球模擬
-   人VS人 、
-   人VS機 、
-   機VS機
-
-* 在小組與班上的貢獻
-
-* 倉儲推送紀錄
-
-* 自評</t>
-<t tx="leo.20181001102704.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+[Week11-16](https://mdecadp2018.github.io/site-40623242/content/Learning%20Progress%202.html)
 
 
-						
-</t>
-<t tx="leo.20181001102704.3"># 人對人
 
-&lt;iframe src="https://www.youtube.com/watch?v=gR3Cdi34DvQ&amp;t=65s" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20181001105630.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -395,9 +368,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181001105630.2"># 人對機
+<t tx="leo.20181001105630.2"># V-rep模擬
 
-&lt;iframe src="https://www.youtube.com/watch?v=xhV6VnW0HXk" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+[影片紀錄](https://www.youtube.com/channel/UCOuhHz5p8EJc8aUQqc9WYCw?view_as=subscriber)
 </t>
 <t tx="leo.20181104222223.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -408,9 +381,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104222223.2"># 機對機
+<t tx="leo.20181104222223.2"># 功能展示
 
-&lt;iframe src="https://www.youtube.com/watch?v=Rzj-4pBYBfE" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+[人對人](https://www.youtube.com/watch?v=gR3Cdi34DvQ&amp;t=140s)
+
+[人對機](https://www.youtube.com/watch?v=xhV6VnW0HXk&amp;t=178s)
+
+[機對機](https://www.youtube.com/watch?v=Rzj-4pBYBfE&amp;t=108s)
+
 </t>
 <t tx="leo.20181104222407.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -421,18 +399,21 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181104222407.2"># 貢獻
+<t tx="leo.20181104222407.2"># 自評
 
-小組上我會試圖幫助解決一些他們遇到的問題
+學員出席 (20%) : 20 分
 
-ex:程式的打法不同，進行解釋或是v-rep設定上的問題，雖然我不是很懂，但把我知道的跟大家分享
+Github 倉儲管理 (20%) : 15 分
 
-我負責小組的v-rep程式模擬M，參考網路的資料，以及甲班同學的程式
+Onshape 協同操作 (20%) : 0 分
 
-我在班上的貢獻:把我會的部分教會給更多人
+V-rep 模擬 (20%) : 20 分
 
+程式開發 (20%) : 15 分
+
+總分 : 70 分
 </t>
-<t tx="leo.20181104222521.1">&lt;section data-markdown&gt;
+<t tx="leo.20190612170848.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -441,32 +422,15 @@ ex:程式的打法不同，進行解釋或是v-rep設定上的問題，雖然我
 
 						
 </t>
-<t tx="leo.20181104222521.2"># 紀錄
-[bg5] (https://github.com/mdekmol/cd2019b-task1-2019cdb_t1_g5)
+<t tx="leo.20190612170848.2"># 目錄
 
-[scrum-1] (https://github.com/scrum-1/cd2019b/commits/master)</t>
-<t tx="leo.20181104222613.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+* 每週歷程
 
+* V-rep 的模擬
 
-						
-</t>
-<t tx="leo.20181104222613.2"># 自評分數
+* 系統功能展示
 
-總分 : 70分</t>
-<t tx="leo.20190610221106.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20190610221106.2">### 謝謝大家
+* 自評細項
 
 </t>
 </tnodes>
